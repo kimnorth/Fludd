@@ -9,6 +9,7 @@
   "author": "Kim North",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.17.1",
     "twitter": "^1.7.1"
   }
 }
