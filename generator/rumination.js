@@ -14,8 +14,8 @@ var randomQuestion;
 
 var rumination1 = function(){
 	finalSentence = "";
-	randomNumber = getRandomNumber(1, words.Adjectives.length);
-	randomAdjective = words.Adjectives[randomNumber];
+	randomNumber = getRandomNumber(1, words.MAdjectives.length);
+	randomAdjective = words.MAdjectives[randomNumber];
 	randomNumber = getRandomNumber(1, words.HBNouns.length);
 	randomNoun = words.HBNouns[randomNumber];
 	randomNumber = getRandomNumber(1, words.Questions.length);

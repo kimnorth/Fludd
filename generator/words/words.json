@@ -34,9 +34,18 @@
         "Caboose",
         "Dope",
         "Flophouse",
-        "Evidence"
+        "Evidence",
+        "Goon",
+        "Grift"
     ],
-    "Adjectives": [
+    "MNouns": [
+        "Labyrinth",
+        "Mirror",
+        "Demon",
+        "Compass",
+        "Garden"
+    ],
+    "HBAdjectives": [
         "Smouldering",
         "Bleak",
         "Neon",
@@ -66,6 +75,16 @@
         "Diamond",
         "Transient"
     ],
+    "MAdjectives": [
+        "Mirrored",
+        "Crystalline",
+        "Emerald",
+        "Serpentine",
+        "Rosicrucian",
+        "False",
+        "Labyrinthine",
+        "Infinite"
+    ],
     "Verbs":[
         "Pounds",
         "Cuts",
@@ -81,6 +100,7 @@
         "Do I exist?",
         "Why can't I remember my own name?",
         "Am I dreaming?",
-        "Why can't I see the facts clearly?"
+        "Why can't I see the facts clearly?",
+        "Does anyone even care?"
     ]
 }
