@@ -2,6 +2,9 @@ var rumination = require('./rumination.js')
 
 // Work out what type of sentence is being created
 // 1 = Moody Rumination
+// 2 = Investigating a clue
+// 3 = Interviewing a suspect
+// 4 = 
 
 var getRandomNumber = function(min, max){
 	min = Math.ceil(min);

@@ -8,7 +8,7 @@ var newPostString = generator();
 
 var postNewTweet = function(){
 	newPostString = generator();
-	console.log(newPostString);	
+	console.log(newPostString);
 }
 
 postNewTweet(newPostString);
