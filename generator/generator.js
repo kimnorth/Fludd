@@ -33,7 +33,6 @@ var getRandomSentenceType = function(){
 
 var generator = function(){
 	randomSentenceType = getRandomNumber(1, 2);
-	// console.log(randomSentenceType)
 	return getRandomSentenceType();
 }
 
